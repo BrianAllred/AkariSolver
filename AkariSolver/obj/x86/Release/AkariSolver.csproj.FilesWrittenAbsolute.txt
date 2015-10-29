@@ -1,0 +1,14 @@
+/home/brian/Dropbox/Mono/AkariSolver/AkariSolver/obj/x86/Release/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/brian/Dropbox/Mono/AkariSolver/AkariSolver/obj/x86/Release/AkariSolver.gtk-gui.gui.stetic
+/home/brian/Dropbox/Mono/AkariSolver/AkariSolver/bin/Release/lib/BlackSpace.png
+/home/brian/Dropbox/Mono/AkariSolver/AkariSolver/bin/Release/lib/FourSpace.png
+/home/brian/Dropbox/Mono/AkariSolver/AkariSolver/bin/Release/lib/LampSpace.png
+/home/brian/Dropbox/Mono/AkariSolver/AkariSolver/bin/Release/lib/LitSpace.png
+/home/brian/Dropbox/Mono/AkariSolver/AkariSolver/bin/Release/lib/OneSpace.png
+/home/brian/Dropbox/Mono/AkariSolver/AkariSolver/bin/Release/lib/ThreeSpace.png
+/home/brian/Dropbox/Mono/AkariSolver/AkariSolver/bin/Release/lib/TwoSpace.png
+/home/brian/Dropbox/Mono/AkariSolver/AkariSolver/bin/Release/lib/WhiteSpace.png
+/home/brian/Dropbox/Mono/AkariSolver/AkariSolver/bin/Release/lib/ZeroSpace.png
+/home/brian/Dropbox/Mono/AkariSolver/AkariSolver/bin/Release/clingo.exe
+/home/brian/Dropbox/Mono/AkariSolver/AkariSolver/bin/Release/AkariSolver.exe
+/home/brian/Dropbox/Mono/AkariSolver/AkariSolver/obj/x86/Release/AkariSolver.exe

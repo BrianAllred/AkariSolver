@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="GridConstructor.cs" Line="1" Column="1" />
+      <File FileName="ASPHelper.cs" Line="30" Column="80" />
+      <File FileName="ErrorDialog.cs" Line="1" Column="1" />
+      <File FileName="GameBoard.cs" Line="1" Column="1" />
+      <File FileName="HelpDialog.cs" Line="1" Column="1" />
+      <File FileName="MainWindow.cs" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="21" Column="51" />
+      <File FileName="VictoryDialog.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
